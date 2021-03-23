@@ -1,0 +1,327 @@
+{
+    "type": "network",
+    "data": [
+       {
+            "account": {
+                "id": "2443972661287219253",
+                "self": ""
+            },
+            "addresses": [
+               {
+                    "type": "local",
+                    "url": {
+                        "href": "http://10.0.1.36:8083"
+                    }
+                },
+               {
+                    "type": "public",
+                    "url": {
+                        "href": "http://70.79.216.221:8083"
+                    }
+                },
+               {
+                    "routingPort": 8102,
+                    "type": "proxy",
+                    "url": {
+                        "href": "https://i-09f6cae8d923bfd8e-mss-eu.mimik360.com"
+                    }
+                }
+            ],
+            "attributes": [
+               {
+                    "name": "edgeChecksum",
+                    "value": "rZux7hRWcV"
+                },
+               {
+                    "name": "name",
+                    "value": "Samsung SM-N9208"
+                }
+            ],
+            "characteristics": [
+               {
+                    "name": "edgeVersion",
+                    "value": "v1.2.1.23.g3522c18"
+                },
+               {
+                    "name": "os",
+                    "value": "android"
+                }
+            ],
+            "createdAt": "2018-08-16T05:37:10.684Z",
+            "id": "600b14289533a0d6",
+            "localLinkNetworkId": "eyJuZXR3b3JrQWRkcmVzcyI6IjJodWJmTjMyZnFWbXZRdCIsInB1YmxpY0FkZHJlc3MiOiI3MC43OS4yMTYuMjIxIn0=",
+            "location": {
+                "coordinates": [
+                    -123.1721,
+                    49.1626
+                ],
+                "origin": "other",
+                "type": "Point"
+            },
+            "networkAddress": "2hubfN32fqVmvQt",
+            "rolesInCluster": [
+                "superNodeLocalLinkNetwork"
+            ],
+            "self": "https://mds.mimik360.com/mDS/v1/nodes/600b14289533a0d6",
+            "services": [
+               {
+                    "id": "example-v1",
+                    "serviceType": "example-v1",
+                    "tenant": {
+                        "id": "",
+                        "self": ""
+                    }
+                },
+               {
+                    "id": "beam-v1",
+                    "serviceType": "beam-v1",
+                    "tenant": {
+                        "id": "",
+                        "self": ""
+                    }
+                },
+               {
+                    "id": "drive-v1",
+                    "serviceType": "drive-v1",
+                    "tenant": {
+                        "id": "",
+                        "self": ""
+                    }
+                },
+               {
+                    "id": "superdrive-v1",
+                    "serviceType": "superdrive-v1",
+                    "tenant": {
+                        "id": "",
+                        "self": ""
+                    }
+                }
+            ],
+            "tenant": {
+                "id": "mimik|001",
+                "self": ""
+            },
+            "updatedAt": "2018-08-16T07:13:46.917Z"
+        },
+       {
+            "account": {
+                "id": "2436162491078466679",
+                "self": ""
+            },
+            "addresses": [
+               {
+                    "type": "local",
+                    "url": {
+                        "href": "http://192.168.1.107:8083"
+                    }
+                },
+               {
+                    "type": "public",
+                    "url": {
+                        "href": "http://172.103.168.188:8083"
+                    }
+                },
+               {
+                    "routingPort": 8100,
+                    "type": "proxy",
+                    "url": {
+                        "href": "https://i-0281351dec03c9c35-mss.mimik360.com"
+                    }
+                }
+            ],
+            "attributes": [
+               {
+                    "name": "edgeChecksum",
+                    "value": "uuCoJ3bcxZ"
+                },
+               {
+                    "name": "name",
+                    "value": "HoFas-MacBook-Pro.local"
+                }
+            ],
+            "characteristics": [
+               {
+                    "name": "edgeVersion",
+                    "value": "v1.2.1"
+                },
+               {
+                    "name": "os",
+                    "value": "macos"
+                }
+            ],
+            "createdAt": "2020-05-21T21:44:16.323Z",
+            "id": "1D4A416D-B0DB-55BA-8DA9-C6311F445BE9",
+            "localLinkNetworkId": "eyJuZXR3b3JrQWRkcmVzcyI6InV1Q29KM2JjeFpWVmYxMiIsInB1YmxpY0FkZHJlc3MiOiIxNzIuMTAzLjE2OC4xODgifQ==",
+            "networkAddress": "uuCoJ3bcxZVVf12",
+            "rolesInCluster": [
+                "superNodeLocalLinkNetwork"
+            ],
+            "self": "https://mds.mimik360.com/mDS/v1/nodes/1D4A416D-B0DB-55BA-8DA9-C6311F445BE9",
+            "services": [
+               {
+                    "id": "example-v1",
+                    "serviceType": "example-v1",
+                    "tenant": {
+                        "id": "",
+                        "self": ""
+                    }
+                }
+            ],
+            "tenant": {
+                "id": "mimik|001",
+                "self": ""
+            },
+            "updatedAt": "2020-05-21T16:44:42.627Z"
+        },
+       {
+            "account": {
+                "id": "2443972661287219253",
+                "self": ""
+            },
+            "addresses": [
+               {
+                    "type": "local",
+                    "url": {
+                        "href": "http://10.26.1.85:8083"
+                    }
+                },
+               {
+                    "type": "public",
+                    "url": {
+                        "href": "http://70.79.239.224:8083"
+                    }
+                },
+               {
+                    "routingPort": 8100,
+                    "type": "proxy",
+                    "url": {
+                        "href": "https://i-01d5e01086a56e3d0-mss.mimik360.com"
+                    }
+                }
+            ],
+            "attributes": [
+               {
+                    "name": "edgeChecksum",
+                    "value": "193TgLDGBD"
+                },
+               {
+                    "name": "name",
+                    "value": "Jeremys-MBP-2.hitronhub.home"
+                }
+            ],
+            "characteristics": [
+               {
+                    "name": "cpu",
+                    "value": "Intel(R) Core(TM) i7-8850H CPU @ 2.60GHz"
+                },
+               {
+                    "name": "edgeVersion",
+                    "value": "v2.2.1.10.gf8bc2eda"
+                },
+               {
+                    "name": "kernelVersion",
+                    "value": "19.4.0"
+                },
+               {
+                    "name": "os",
+                    "value": "macos"
+                },
+               {
+                    "name": "totalPhysicalMemory",
+                    "value": "17179869184"
+                },
+               {
+                    "name": "totalStorage",
+                    "value": "499963174912"
+                }
+            ],
+            "createdAt": "2020-05-21T21:44:16.325Z",
+            "id": "5532d3b430e7807946abaefa65dd9adab23319011729f47829642d0b",
+            "localLinkNetworkId": "eyJuZXR3b3JrQWRkcmVzcyI6Ilp5WFhCN01lbnhrREwxODloYkxadGh6bDNkcGZrZEVQIiwicHVibGljQWRkcmVzcyI6IjcwLjc5LjIzOS4yMjQifQ==",
+            "networkAddress": "ZyXXB7MenxkDL189hbLZthzl3dpfkdEP",
+            "rolesInCluster": [
+                "superNodeLocalLinkNetwork"
+            ],
+            "self": "https://mds.mimik360.com/mDS/v1/nodes/5532d3b430e7807946abaefa65dd9adab23319011729f47829642d0b",
+            "services": [
+               {
+                    "id": "4945ee3a-c655-404b-bde7-84727646d710-mdebug-v1",
+                    "self": "/4945ee3a-c655-404b-bde7-84727646d710/mdebug/v1",
+                    "serviceType": "4945ee3a-c655-404b-bde7-84727646d710-mdebug-v1",
+                    "tenant": {
+                        "id": "",
+                        "self": ""
+                    }
+                },
+               {
+                    "id": "superdrive-v1",
+                    "self": "/superdrive/v1",
+                    "serviceType": "superdrive-v1",
+                    "tenant": {
+                        "id": "",
+                        "self": ""
+                    }
+                },
+               {
+                    "id": "4945ee3a-c655-404b-bde7-84727646d710-edis-v1",
+                    "self": "/4945ee3a-c655-404b-bde7-84727646d710/edis/v1",
+                    "serviceType": "4945ee3a-c655-404b-bde7-84727646d710-edis-v1",
+                    "tenant": {
+                        "id": "4945ee3a-c655-404b-bde7-84727646d710",
+                        "self": ""
+                    }
+                },
+               {
+                    "id": "4945ee3a-c655-404b-bde7-84727646d710-mcdn-v1",
+                    "self": "/4945ee3a-c655-404b-bde7-84727646d710/mcdn/v1",
+                    "serviceType": "4945ee3a-c655-404b-bde7-84727646d710-mcdn-v1",
+                    "tenant": {
+                        "id": "4945ee3a-c655-404b-bde7-84727646d710",
+                        "self": ""
+                    }
+                },
+               {
+                    "id": "example-v2",
+                    "self": "/example/v2",
+                    "serviceType": "example-v2",
+                    "tenant": {
+                        "id": "",
+                        "self": ""
+                    }
+                },
+               {
+                    "id": "4945ee3a-c655-404b-bde7-84727646d710-mdirectory-v1",
+                    "self": "/4945ee3a-c655-404b-bde7-84727646d710/mdirectory/v1",
+                    "serviceType": "4945ee3a-c655-404b-bde7-84727646d710-mdirectory-v1",
+                    "tenant": {
+                        "id": "4945ee3a-c655-404b-bde7-84727646d710",
+                        "self": ""
+                    }
+                },
+               {
+                    "id": "4945ee3a-c655-404b-bde7-84727646d710-msmarthome-v1",
+                    "self": "/4945ee3a-c655-404b-bde7-84727646d710/msmarthome/v1",
+                    "serviceType": "4945ee3a-c655-404b-bde7-84727646d710-msmarthome-v1",
+                    "tenant": {
+                        "id": "4945ee3a-c655-404b-bde7-84727646d710",
+                        "self": ""
+                    }
+                },
+               {
+                    "id": "4945ee3a-c655-404b-bde7-84727646d710-mmatch-v1",
+                    "self": "/4945ee3a-c655-404b-bde7-84727646d710/mmatch/v1",
+                    "serviceType": "4945ee3a-c655-404b-bde7-84727646d710-mmatch-v1",
+                    "tenant": {
+                        "id": "4945ee3a-c655-404b-bde7-84727646d710",
+                        "self": ""
+                    }
+                }
+            ],
+            "tenant": {
+                "id": "mimik|001",
+                "self": ""
+            },
+            "updatedAt": "2020-05-21T21:44:13.679Z"
+        }
+    ]
+}
